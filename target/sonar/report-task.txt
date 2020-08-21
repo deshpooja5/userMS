@@ -1,0 +1,7 @@
+organization=deshpooja5
+projectKey=deshpooja5_userMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8621
+dashboardUrl=https://sonarcloud.io/dashboard?id=deshpooja5_userMS
+ceTaskId=AXKoFFO5lLaLEx4twknA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKoFFO5lLaLEx4twknA

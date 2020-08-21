@@ -1,0 +1,54 @@
+
+scom.group7.UserMS.controller.SellerController#deactivateSeller(Lcom/group7/UserMS/dto/SellerDTO;)Ljava/lang/String;{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java< <("startingBlock*
+2{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java? ?("
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java? ?(
+
+Successful*Ü
+startingBlock{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java< <(Aû
+ø
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java; ;(V
+%2"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*.
+,
+	sellerDTOcom.group7.UserMS.dto.SellerDTOû
+ø
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java<  <(,
+%3"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*.
+,
+	sellerDTOcom.group7.UserMS.dto.SellerDTOÌ
+É
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java<7 <(@,
+	sellerDTOcom.group7.UserMS.dto.SellerDTO"__annotation*
+
+%2*
+
+%3*
+3*‰
+3{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java> >(û
+ø
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java> >(-
+%0'com.group7.UserMS.service.SellerService"__id*D*B/
+-com.group7.UserMS.controller.SellerController"
+sellerServiceƒ€
+{
+qE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/SellerController.java> >(-
+%1boolean"\com.group7.UserMS.service.SellerService#deactivateSeller(Lcom/group7/UserMS/dto/SellerDTO;)Z*/
+-
+%0'com.group7.UserMS.service.SellerService*.
+,
+	sellerDTOcom.group7.UserMS.dto.SellerDTO23deactivateSeller(Lcom/group7/UserMS/dto/SellerDTO;)*
+2:,
+	sellerDTOcom.group7.UserMS.dto.SellerDTOB1/
+-com.group7.UserMS.controller.SellerController

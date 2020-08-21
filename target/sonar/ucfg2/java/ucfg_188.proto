@@ -1,0 +1,16 @@
+
+Ccom.group7.UserMS.dto.OrderDetailsDTO#getStatus()Ljava/lang/String;s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java8 8("1*⁄
+1s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java9	 9(Õ
+ 
+s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java9	 9(
+%0java.lang.String"__id*5*3'
+%com.group7.UserMS.dto.OrderDetailsDTO"
+status"è
+s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java9 9(
+
+%0java.lang.StringB)'
+%com.group7.UserMS.dto.OrderDetailsDTO

@@ -1,0 +1,55 @@
+
+pcom.group7.UserMS.controller.BuyerController#deactivateBuyer(Lcom/group7/UserMS/dto/BuyerDTO;)Ljava/lang/String;z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaK K("startingBlock*Ò
+startingBlockz
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaK K(>ø
+õ
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaJ J(U
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*,
+*
+buyerDTOcom.group7.UserMS.dto.BuyerDTOø
+õ
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaK K(+
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*,
+*
+buyerDTOcom.group7.UserMS.dto.BuyerDTOÉ
+Æ
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaK5 K(=*
+buyerDTOcom.group7.UserMS.dto.BuyerDTO"__annotation*
+
+%4*
+
+%5*
+4*ø
+4z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaM M(÷
+ô
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaM M(,
+%0&com.group7.UserMS.service.BuyerService"__id*B*@.
+,com.group7.UserMS.controller.BuyerController"
+buyerService÷ô
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaM M(*
+
+%1void"Ycom.group7.UserMS.service.BuyerService#deactivateBuyer(Lcom/group7/UserMS/dto/BuyerDTO;)V*.
+,
+%0&com.group7.UserMS.service.BuyerService*,
+*
+buyerDTOcom.group7.UserMS.dto.BuyerDTO21deactivateBuyer(Lcom/group7/UserMS/dto/BuyerDTO;)*
+1*—
+1z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaQ
+ Q("•
+z
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.javaQ Q( 
+Account Deactivated:*
+buyerDTOcom.group7.UserMS.dto.BuyerDTOB0.
+,com.group7.UserMS.controller.BuyerController

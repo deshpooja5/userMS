@@ -1,0 +1,37 @@
+
+bcom.group7.UserMS.controller.BuyerController#allWishlistItems(Ljava/lang/Integer;)Ljava/util/List;|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java„ „(*"1*Ê
+
+1|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java… …(ª
+§
+|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java… …(
+%0java.io.PrintStream"__id*
+""•’
+|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java… …(.
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+inside buyer privilege2println(Ljava/lang/String;)ù
+ö
+|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java†	 †(,
+%2&com.group7.UserMS.service.BuyerService"__id*B*@.
+,com.group7.UserMS.controller.BuyerController"
+buyerServiceìé
+|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java†	 †(/
+%3java.util.List"\com.group7.UserMS.service.BuyerService#allWishlistItems(Ljava/lang/Integer;)Ljava/util/List;*.
+,
+%2&com.group7.UserMS.service.BuyerService*
+
+buyerIdjava.lang.Integer2%allWishlistItems(Ljava/lang/Integer;)"–
+|
+pE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/controller/BuyerController.java† †(0
+
+%3java.util.List:
+buyerIdjava.lang.IntegerB0.
+,com.group7.UserMS.controller.BuyerController

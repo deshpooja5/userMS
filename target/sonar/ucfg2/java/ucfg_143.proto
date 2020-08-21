@@ -1,0 +1,96 @@
+
+Ocom.group7.UserMS.dto.SellerDTO#createEntity()Lcom/group7/UserMS/entity/Seller;m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.java? ?("1*⁄ 
+1m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.java@ @(∫∑
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.java@ @(%
+%0com.group7.UserMS.entity.Seller"com.group7.UserMS.entity.SellerÃ
+…
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.java@ @(
+%1")com.group7.UserMS.entity.Seller#<init>()V*'
+%
+%0com.group7.UserMS.entity.Seller»
+≈
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.java@ @(%
+secom.group7.UserMS.entity.Seller"__id*'
+%
+%0com.group7.UserMS.entity.SellerÅ˛
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaA A(#
+%2java.lang.Integer"@com.group7.UserMS.dto.SellerDTO#getSellerId()Ljava/lang/Integer;*#!
+com.group7.UserMS.dto.SellerDTO2getSellerId()ß§
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaA A($
+
+%3void"Acom.group7.UserMS.entity.Seller#setSellerId(Ljava/lang/Integer;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%2java.lang.Integer2 setSellerId(Ljava/lang/Integer;)˜Ù
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaB B(
+%4java.lang.String";com.group7.UserMS.dto.SellerDTO#getName()Ljava/lang/String;*#!
+com.group7.UserMS.dto.SellerDTO2	getName()úô
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaB B(
+
+%5void"<com.group7.UserMS.entity.Seller#setName(Ljava/lang/String;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%4java.lang.String2setName(Ljava/lang/String;)˘ˆ
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaC C(
+%6java.lang.String"<com.group7.UserMS.dto.SellerDTO#getEmail()Ljava/lang/String;*#!
+com.group7.UserMS.dto.SellerDTO2
+getEmail()ûõ
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaC C(
+
+%7void"=com.group7.UserMS.entity.Seller#setEmail(Ljava/lang/String;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)ÖÇ
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaD D()
+%8java.lang.String"Bcom.group7.UserMS.dto.SellerDTO#getPhoneNumber()Ljava/lang/String;*#!
+com.group7.UserMS.dto.SellerDTO2getPhoneNumber()™ß
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaD D(*
+
+%9void"Ccom.group7.UserMS.entity.Seller#setPhoneNumber(Ljava/lang/String;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%8java.lang.String2"setPhoneNumber(Ljava/lang/String;)Ä˝
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaE E(#
+%10java.lang.String"?com.group7.UserMS.dto.SellerDTO#getPassword()Ljava/lang/String;*#!
+com.group7.UserMS.dto.SellerDTO2getPassword()¶£
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaE E($
+%11void"@com.group7.UserMS.entity.Seller#setPassword(Ljava/lang/String;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)Çˇ
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaF F(#
+%12java.lang.Boolean"@com.group7.UserMS.dto.SellerDTO#getIsActive()Ljava/lang/Boolean;*#!
+com.group7.UserMS.dto.SellerDTO2getIsActive()©¶
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaF F($
+%13void"Acom.group7.UserMS.entity.Seller#setIsActive(Ljava/lang/Boolean;)V*'
+%
+secom.group7.UserMS.entity.Seller*
+
+%12java.lang.Boolean2 setIsActive(Ljava/lang/Boolean;)"ò
+m
+cE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/SellerDTO.javaG G('
+%
+secom.group7.UserMS.entity.SellerB#!
+com.group7.UserMS.dto.SellerDTO

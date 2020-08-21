@@ -1,0 +1,16 @@
+
+Ecom.group7.UserMS.dto.OrderDetailsDTO#getOrderid()Ljava/lang/Integer;s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java2 2("1*›
+1s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java3	 3(œ
+Ã
+s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java3	 3(
+%0java.lang.Integer"__id*6*4'
+%com.group7.UserMS.dto.OrderDetailsDTO"	
+orderid"ê
+s
+iE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/OrderDetailsDTO.java3 3(
+
+%0java.lang.IntegerB)'
+%com.group7.UserMS.dto.OrderDetailsDTO

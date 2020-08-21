@@ -1,0 +1,54 @@
+
+Lcom.group7.UserMS.service.BuyerService#getRewardPoints(Ljava/lang/Integer;)Iv
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaå å("1*œ
+1v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaç ç(§
+°
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaç ç(
+%0java.io.PrintStream"__id*
+"" 
+«
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaç ç(&
+%1java.lang.String"__concat*	
+BuyerId*
+
+buyerIdjava.lang.Integerçä
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaç ç('
+
+%2void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+
+%1java.lang.String2println(Ljava/lang/String;)
+Ì
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaé é(2
+%3,com.group7.UserMS.repository.BuyerRepository"__id*9*7(
+&com.group7.UserMS.service.BuyerService"
+	buyerRepoËÂ
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaé é(.$
+%4com.group7.UserMS.entity.Buyer"]com.group7.UserMS.repository.BuyerRepository#findByBuyerId(I)Lcom/group7/UserMS/entity/Buyer;*4
+2
+%3,com.group7.UserMS.repository.BuyerRepository*
+
+buyerIdjava.lang.Integer2findByBuyerId(I)“
+œ
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaé é(/'
+buyercom.group7.UserMS.entity.Buyer"__id*&
+$
+%4com.group7.UserMS.entity.Buyeróî
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaè	 è( 
+%5java.lang.Integer"Ccom.group7.UserMS.entity.Buyer#getRewardPoints()Ljava/lang/Integer;*)
+'
+buyercom.group7.UserMS.entity.Buyer2getRewardPoints()"Ä
+v
+jE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/BuyerService.javaè è(!
+"":
+buyerIdjava.lang.IntegerB*(
+&com.group7.UserMS.service.BuyerService

@@ -1,0 +1,59 @@
+
+Scom.group7.UserMS.dto.WishlistDTO#createEntity()Lcom/group7/UserMS/entity/Wishlist;o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java   (&"1*À
+1o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java! !(,À½
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java!" !(*'
+%0!com.group7.UserMS.entity.Wishlist"!com.group7.UserMS.entity.WishlistÒ
+Ï
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java! !(,
+%1"+com.group7.UserMS.entity.Wishlist#<init>()V*)
+'
+%0!com.group7.UserMS.entity.WishlistÔ
+Ñ
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java! !(--
+wishlist!com.group7.UserMS.entity.Wishlist"__id*)
+'
+%0!com.group7.UserMS.entity.Wishlist©¦
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java" "( %
+%2com.group7.UserMS.entity.CartId"Ncom.group7.UserMS.entity.Wishlist#getCartId()Lcom/group7/UserMS/entity/CartId;*/
+-
+wishlist!com.group7.UserMS.entity.Wishlist2getCartId()…‚
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java", "(=
+%3java.lang.Integer"Acom.group7.UserMS.dto.WishlistDTO#getBuyerId()Ljava/lang/Integer;*%#
+!com.group7.UserMS.dto.WishlistDTO2getBuyerId()§¤
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java" "(>
+
+%4void"@com.group7.UserMS.entity.CartId#setBuyerId(Ljava/lang/Integer;)V*'
+%
+%2com.group7.UserMS.entity.CartId*
+
+%3java.lang.Integer2setBuyerId(Ljava/lang/Integer;)©¦
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java# #( %
+%5com.group7.UserMS.entity.CartId"Ncom.group7.UserMS.entity.Wishlist#getCartId()Lcom/group7/UserMS/entity/CartId;*/
+-
+wishlist!com.group7.UserMS.entity.Wishlist2getCartId()ƒ€
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java#+ #(;
+%6java.lang.Integer"@com.group7.UserMS.dto.WishlistDTO#getProdId()Ljava/lang/Integer;*%#
+!com.group7.UserMS.dto.WishlistDTO2getProdId()¥¢
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java# #(<
+
+%7void"?com.group7.UserMS.entity.CartId#setProdId(Ljava/lang/Integer;)V*'
+%
+%5com.group7.UserMS.entity.CartId*
+
+%6java.lang.Integer2setProdId(Ljava/lang/Integer;)"¢
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java$ $(/
+-
+wishlist!com.group7.UserMS.entity.WishlistB%#
+!com.group7.UserMS.dto.WishlistDTO

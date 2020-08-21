@@ -1,0 +1,18 @@
+
+Icom.group7.UserMS.service.SellerService#isValidEmail(Ljava/lang/String;)Zu
+kE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/SellerService.javaR R("1*¬
+1u
+kE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/SellerService.javaT	 T(®
+«
+u
+kE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/SellerService.javaT	 T(9
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*
+^[A-Za-z0-9+_.-]+@(.+)$*
+
+emailjava.lang.String"
+u
+kE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/service/SellerService.javaT T(:
+"":
+emailjava.lang.StringB+)
+'com.group7.UserMS.service.SellerService

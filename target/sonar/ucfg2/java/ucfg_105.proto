@@ -1,0 +1,51 @@
+
+>com.group7.UserMS.dto.WishlistDTO#toString()Ljava/lang/String;o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java( (("1*¬
+1o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)	 )( Ç
+Ä
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)" )()
+%0java.lang.Integer"__id*2*0#
+!com.group7.UserMS.dto.WishlistDTO"	
+buyerIdÌ
+É
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)	 )()
+%1java.lang.String"__concat*
+WishlistDTO [BuyerId=*
+
+%0java.lang.Integer½
+º
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)	 )(5
+%2java.lang.String"__concat*
+
+%1java.lang.String*	
+ProdId=Æ
+Ã
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)7 )(=
+%3java.lang.Integer"__id*1*/#
+!com.group7.UserMS.dto.WishlistDTO"
+prodIdË
+È
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)	 )(=
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Integer·
+´
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java)	 )(A
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"‹
+o
+eE:/INFOSYS CND/CAPSTONE Project/OMS SONAR/UserMS/src/main/java/com/group7/UserMS/dto/WishlistDTO.java) )(B
+
+%5java.lang.StringB%#
+!com.group7.UserMS.dto.WishlistDTO
